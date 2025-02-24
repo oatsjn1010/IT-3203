@@ -1,8 +1,3 @@
-
-<html>
-    <head>
-       <meta charset="utf-8">
-       <meta name="viewport" content="width=device-width, intital-scale=1">
            <title>IT 3203</title>
     </head>
     <body>
